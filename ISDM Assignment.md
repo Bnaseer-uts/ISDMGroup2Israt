@@ -74,7 +74,23 @@ Considering the identification of the problems encountered in the second stage, 
 
 
 
-### What is our Design Thinking Approach? (Michael)
+Design Thinking (Ideate, Prototype, Test) (Michael)
+
+Ideate
+To ideate involves thinking outside the box. Based off the customers/user’s prior inputs we can identify new solutions to their previous problems or problems we may encounter. 
+We will start looking for alternative ways to view the problem. This will include brainstorming everything the customer/user has said about their experience with calls and customer service. We will find the worst possible idea and find ways to avoid this. Using a ‘point of view’ to a ‘how might we’ will allow us to develop multiple ways on how we may bypass these issues. For example, if we’re speaking to and elderly customer/user that has a fear of the water. We will know not to put them in the direction of a cruise ship holiday. 
+Brainstorming ways the team could improve their in-house call management centre (CMC) to reduce issues such as long wait times leading to customers hanging up. 
+Prototype
+Developing a prototype to improve the operation of in-house call management centre (CMC) involves problems and their solutions. The prototype will identify the best solution for each of the problems identified in the first three stages we have gone through. 
+By this stage, after emphasising, defining and ideating we will have a better idea of the limitations inherent from customers/users reasons to hang up during their long wait times and overall improving the operation of the in-house call management centre (CMC). Allowing us to have a better perspective of how real users would think, feel and behave when interacting. 
+The prototype will ensure customers/users are satisfied with the service they receive, help resolve discrepancies among users, help determine technical feasibility, help sell, break down resistance barriers and quickly provide a system for customers/users to interact with.
+Test
+The final stage of our design thinking is to test. Testing the complete product and identifying any issues that remain or arise. Results generated during the testing phase will be used to redefine one or more problems. We will implement and use all our design thinking approaches and over a period of time conduct a survey to see how customers/user’s think, behave and felt with our new approach. 
+
+
+
+
+
 #### What, How and Why?
 #### Empathy Map (Bidhan )
 
