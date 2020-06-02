@@ -1,8 +1,18 @@
 # Information System Methodlogies Assignment.
-Weighting: 50%.
+<b> Weighting: 50%. </b>
 
-Group Members: Bilal Naseer, Antonious Hanna, Michael King, Bidhan Sharma, Razin Agida Kaharuba.
+Tutor: Israt Fatema.
+Subject Code: 31257
 
+Group Members | Student ID | Signature
+------------- | --------- |
+Bilal Naseer | 12907883 |
+Tony Hanna | 13211949 |
+Michael King | 13876471 | 
+Bidhan Sharma | 13155597 | 
+Razin Agida Kaharuba | 13068061 | 
+
+<a href="https://www.youtube.com/watch?v=XzvH-jzLOMU&feature=youtu.be">Presentation Video</a>
 ## Executive Summary 
 
 The purpose of this report is to outline the strategies involved in improving an existing system for a major travel company. The project intends to improve the operation of their in-house calls using various techniques mentioned below in the project. The first stage of the projects is done by using design thinking analysis. This stage helps to understand the requirements and problems associated with the current system and suggests the changes required. An empathy map is also used in the project to analyze the deeper insight for the Relationship manager and customers. Relationship managers and customers are identified as a major stakeholder in this project. 
@@ -99,8 +109,9 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 <p align="center">
 <img src="/models/target_customer_collaboration_diagram.png">
 </p>
-
-#### Target Customer Activity
+<p align="center">
+  <b> Target Customer Activity</b>
+</p>
 <p align="center">
 <img src="/models/target_customers_activity_diagram.png">
 </p>
@@ -110,4 +121,5 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 Upon execution of the project, there are a variety of competitive advantages that enable this major travel company to be distinct among others. The first competitive advantage is their significant method of improving call routing and dynamic call flow. The system’s ability to match customers with the ideal RM for their enquiry, depending on the customer’s travel destination, language proficiency, etc. not only minimizes the costs by reducing handling time, but also by capitalising client satisfaction as the customer is able to receive the most knowledgeable agent on the other end. Moreover, the fact that a RM will receive a call in their area of expertise signifies that they are most qualified and have actioned the specific package before. This will majorly reduce their after call work which is an extremely critical key performance indicator (KPI) in call management centers (CMC), consequently allowing this RM to action more calls and enhance the overall efficiency and performance of the company. Another competitive advantage that potentially gives this company an upper hand is the interactive voice response unit. The reason for this is that a lot of the time customers call for a simple enquiry which may take the time from a willing customer that is looking for a purchase- therefore by ensuring customers with a high score have a priority, performance is once again maximized as all opportunities are seized. 
 
 While this project enables a number of competitive advantages, if it fails, there are also a number of adversary effects that may harm the company. For example, If the project fails to deliver an Interactive Voice Response unit that successfully branches customers to the appropriate RM, the repercussions will be reflected on the customer’s experience. Moreover, this will lead to one or potentially all of the following: the customer will be directed to an agent that is not familiar with the desired travel package and will therefore not receive optimal assistance; the customer will have to experience one or more call transfers to different managers which can be quite frustrating; and finally, without the navigation options, the customer may be on hold for a long time with no hint on potential call outcome. Overall- all these potential impacts degrade the customer’s experience and may potentially decrease the company’s revenue due to dissatisfaction. Finally, one more negative effect that the company may encounter upon the failure of the project completion is being perceived as a ‘scam’ company for outbound calls, especially if cold calling, assuming a customer target list is not in place. The reason for this is that if customers are not strategically listed on a dialler for certain managers, the call will not be efficiently advertised and therefore poorly communicated. This will lead to a decrease in the Call completion rate KPI, consequently increasing the cost of calls due to unnecessary reaches and decreasing potential revenue that could have been collected by a more qualified and appropriate agent respective of the profiling matches.
+
 
