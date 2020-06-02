@@ -26,22 +26,20 @@ Customers |
 The combination of critical and creative ideas can help improve information systems in dynamic ways. It can find the roots of the problem occurring in the system as well as help to develop new ideas. The approach always encapsulates customers and is based on their needs which will lead in the development of a customer based IS.
 The five stages of the design thinking process are as follows;
 
-Empathize 
-Define 
-Ideate 
-Prototype 
-Test
-
 ### Empathize
 The first stage of the design thinking process starts by understanding the needs of the stakeholders. All the requirements should also be enlisted and summarized. The goal to understand the relationship between RM and customers is very vital in this stage. The key to a successful system is to match the profile correctly. This stage in the entire process is vital for successful development. The process includes end not only customers requirements but also the other stakeholders like relationship managers, employees who are involved in the project. It helps the development team to understand the requirements as well as expectations better. While gathering requirements, the team can create profiles which can later be used to match the relationship managers profile with the end customers. The profile can include age, sex, culture, product knowledge, language. An empathy map is drawn below to draw the requirements of the stakeholders of the travel company.
 
-Customers
-Employees 
-Relationship managers 
-Travel Company
+- Customers
+- Employees 
+- Relationship managers 
+- Travel Company
 
 <p align="center">
 <img src="/models/Customer%20EM.jpg">
+</p>
+
+<p align="center">
+<img src="/models/RM.png">
 </p>
 
 
@@ -58,7 +56,13 @@ Agile methodology is the process in which a team manages a project by breaking i
 
 An assumption made in this system anaylsis is that Israt Fatema is the represntative for all stakeholders, and the meeting is the tutorial with her at 4:30pm Thursday.
 
-### Proposed workproducts and Models (Agid)
+### Proposed workproducts and Models
+
+#### User Case Diagram
+
+<p align="center">
+<img src="/models/usecase_diagram.png">
+</p>
 
 #### Class Diagram
 <p align="center">
@@ -83,12 +87,6 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 #### Target Customer Activity
 <p align="center">
 <img src="/models/target_customers_activity_diagram.png">
-</p>
-
-#### User Case Diagram
-
-<p align="center">
-<img src="/models/usecase_diagram.png">
 </p>
 
 ### Competitive Advantages
