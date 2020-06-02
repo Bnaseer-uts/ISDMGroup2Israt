@@ -4,13 +4,13 @@
 Tutor: Israt Fatema.
 Subject Code: 31257
 
-Group Members | Student ID | Signature
-------------- | --------- | -------
-Bilal Naseer | 12907883 |
-Tony Hanna | 13211949 |
-Michael King | 13876471 | 
-Bidhan Sharma | 13155597 | 
-Razin Agida Kaharuba | 13068061 | 
+Group Members | Student ID
+------------- | ---------
+Bilal Naseer | 12907883
+Tony Hanna | 13211949
+Michael King | 13876471
+Bidhan Sharma | 13155597
+Razin Agida Kaharuba | 13068061
 
 <a href="https://www.youtube.com/watch?v=XzvH-jzLOMU&feature=youtu.be">Presentation Video</a>
 ## Executive Summary 
