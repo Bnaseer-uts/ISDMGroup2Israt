@@ -69,31 +69,31 @@ An assumption made in this system anaylsis is that Israt Fatema is the represnta
 
 ### Proposed workproducts and Models
 
-<p align="center"
+<p align="center">
   <b> User Case Diagram</b>
 </p>
 <p align="center">
 <img src="/models/usecase_diagram.png">
 </p>
-<p align="center"
+<p align="center">
   <b> Class Diagram</b>
 </p>
 <p align="center">
 <img src="/models/class_diagram.png">
 </p>
-<p align="center"
+<p align="center">
   <b> Serve Class Diagram</b>
 </p>
 <p align="center">
 <img src="/models/serve_customers_activity_diagram.png">
 </p>
-<p align="center"
-  <b> Serve Customer Collaboration</b>
+<p align="center">
+  <b> Serve Customer Collaboration </b>
 </p>
 <p align="center">
 <img src="/models/serve_customer_collaboration_diagramdrawio.png">
 </p>
-<p align="center"
+<p align="center">
   <b> Target Customer Collaboration</b>
 </p>
 <p align="center">
